@@ -1,0 +1,46 @@
+# số file <tab> câu thoại. Thêm giọng mới: tạo mp3 theo câu thoại, đặt tên theo số tiếp theo, rồi thêm dòng vào bảng giọng trong index.html
+001.mp3	Xin chào em! Mình là MC dẫn đường. Cùng học hình chiếu và hình cắt nhé!
+002.mp3	Chọn một vật thể trong danh sách, rồi xoay để quan sát. Mỗi vật em xem sẽ có điểm rơi ra, em chạm vào để nhặt nhé.
+003.mp3	Đây là phần luyện tập. Em chọn một nhóm câu hỏi và làm nhé. Làm đúng ngay lần đầu, em được trọn điểm.
+004.mp3	Vật này có lỗ bên trong. Bấm nút Hình cắt để nhìn vào bên trong nhé.
+005.mp3	Em kéo thanh trượt để tiến lùi mặt phẳng cắt A–A, rồi nhìn hình cắt bên phải nhé. Em vẫn xoay được vật thể.
+006.mp3	Em đã xem đủ các lát cắt. Sang Luyện tập để thử thách nhé.
+007.mp3	Em vừa nhận thêm điểm. Giỏi lắm!
+008.mp3	Phiếu của em đã sẵn sàng. Em lưu ảnh hoặc chia sẻ để gửi thầy nhé.
+009.mp3	Chính xác!
+010.mp3	Giỏi lắm!
+011.mp3	Đúng rồi, tốt lắm!
+012.mp3	Chưa đúng, em thử lại nhé.
+013.mp3	Gần rồi, em nghĩ lại nhé.
+014.mp3	Đúng rồi. Lần sau em sẽ được trọn điểm.
+015.mp3	Em xong nhóm này rồi.
+016.mp3	Xuất sắc! Em làm gần như trọn vẹn.
+017.mp3	Khá lắm! Em có thể làm lại để lấy điểm cao hơn.
+018.mp3	Cố lên nào! Làm lại một lần nữa, em sẽ giỏi hơn.
+019.mp3	Chúc mừng em! Em nhận huy hiệu Thợ tập sự.
+020.mp3	Chúc mừng em! Em nhận huy hiệu Kỹ thuật viên.
+021.mp3	Chúc mừng em! Em nhận huy hiệu Kỹ sư siêu cấp.
+022.mp3	Em đã nắm được những điều cơ bản về hình chiếu. Cố gắng thêm để lên hạng nhé!
+023.mp3	Em đọc hình chiếu rất tốt. Chỉ còn một chút nữa là xuất sắc!
+024.mp3	Siêu cấp! Em là cao thủ hình chiếu, thầy tự hào về em!
+025.mp3	Theo em, hình cắt của vật này trông thế nào?
+026.mp3	Nhìn theo mũi tên B, ta được hình chiếu nào?
+027.mp3	Nối hướng nhìn với tên hình chiếu.
+028.mp3	Điền từ cho đúng.
+029.mp3	Hình chiếu cạnh được nhìn từ bên trái sang.
+030.mp3	Kéo tên vào đúng vị trí trên bản vẽ.
+031.mp3	Hình chiếu bằng nằm ở đâu so với hình chiếu đứng?
+032.mp3	Hình chiếu cạnh nằm bên trái hình chiếu đứng.
+033.mp3	Kéo mỗi hình vào đúng vị trí.
+034.mp3	Nối nét vẽ với ý nghĩa.
+035.mp3	Đây là nét gì?
+036.mp3	Chạm vào cạnh khuất (nét đứt).
+037.mp3	Kéo tên vào đúng nét A, B, C.
+038.mp3	Kích thước trên bản vẽ cơ khí tính bằng đơn vị nào?
+039.mp3	Kéo số vào đúng đường kích thước.
+040.mp3	Chiều dài toàn bộ = 10 + 30 = ? (mm)
+041.mp3	Nối ký hiệu với ý nghĩa.
+042.mp3	Con số kích thước ghi ở đâu?
+043.mp3	Trên hình cắt, phần lỗ rỗng cũng được vẽ nét gạch.
+044.mp3	Nét gạch trên hình cắt vẽ ở phần nào?
+045.mp3	Mặt phẳng cắt dời ra ngoài vật thể thì mặt cắt như thế nào?

@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Kiểm tra mp3 từ GitHub Pages</title>
+<style>body{font:18px/1.5 system-ui,sans-serif;max-width:720px;margin:24px auto;padding:0 16px;color:#1b2a41}
+input{width:100%;box-sizing:border-box;font:inherit;padding:8px;margin:6px 0 12px}button{font:inherit;font-weight:700;padding:10px 18px;border-radius:10px;border:2px solid #1d6fd8;background:#1d6fd8;color:#fff;cursor:pointer}
+#kq{margin-top:16px;padding:12px;border-radius:10px;background:#eef3fb;white-space:pre-wrap}.ok{color:#14703a;font-weight:700}.no{color:#b3261e;font-weight:700}</style></head><body>
+<h2>Kiểm tra giọng MC (mp3) từ GitHub Pages</h2>
+<p>Dán trang này vào AI Studio (hoặc mở trực tiếp), bấm nút. Nếu nghe được tiếng và thấy dòng xanh thì AI Studio phát được mp3 từ GitHub.</p>
+<label>Địa chỉ thư mục mp3 (có dấu / ở cuối)<input id="u" value="https://hungcnfree.github.io/cong-nghe-vui/viewer-ve-ky-thuat-cn8/mc/"></label>
+<label>Tên file<input id="f" value="001.mp3"></label>
+<button id="b">Phát thử</button><div id="kq">Chưa thử.</div>
+<script>
+var a=new Audio(),k=document.getElementById('kq');
+function say(t,c){k.innerHTML='<span class="'+(c||'')+'">'+t+'</span>'}
+a.onplaying=function(){say('Phát được: trình duyệt đã tải và đang phát mp3 từ địa chỉ trên.','ok')};
+a.onerror=function(){var e=a.error;say('Không phát được (mã lỗi '+(e?e.code:'?')+'). Có thể địa chỉ sai, GitHub Pages chưa bật, hoặc AI Studio chặn tải âm thanh từ nơi khác.','no')};
+document.getElementById('b').onclick=function(){say('Đang tải...');a.src=document.getElementById('u').value+document.getElementById('f').value+'?t='+Date.now();var p=a.play();if(p&&p.catch)p.catch(function(e){say('Trình duyệt từ chối phát: '+e.name+'. Hãy bấm nút lần nữa.','no')})};
+</script></body></html>
