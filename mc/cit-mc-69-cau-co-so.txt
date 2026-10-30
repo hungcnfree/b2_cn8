@@ -1,0 +1,69 @@
+001	Xin chào em! Mình là MC dẫn đường. Cùng học hình chiếu và hình cắt nhé!
+002	Chọn một vật thể trong danh sách, rồi xoay để quan sát. Mỗi vật em xem sẽ có điểm rơi ra, em chạm vào để nhặt nhé.
+003	Đây là phần luyện tập. Em chọn một nhóm câu hỏi và làm nhé. Làm đúng ngay lần đầu, em được trọn điểm.
+004	Vật này có lỗ bên trong. Bấm nút Hình cắt để nhìn vào bên trong nhé.
+005	Em kéo thanh trượt để tiến lùi mặt phẳng cắt A A, rồi nhìn hình cắt bên phải nhé. Em vẫn xoay được vật thể.
+006	Em đã xem đủ các lát cắt. Sang Luyện tập để thử thách nhé.
+007	Em vừa nhận thêm điểm. Giỏi lắm!
+008	Phiếu của em đã sẵn sàng. Em lưu ảnh hoặc chia sẻ để gửi thầy nhé.
+009	Chính xác!
+010	Giỏi lắm!
+011	Đúng rồi, tốt lắm!
+012	Chưa đúng, em thử lại nhé.
+013	Gần rồi, em nghĩ lại nhé.
+014	Đúng rồi. Lần sau em sẽ được trọn điểm.
+015	Em xong nhóm này rồi.
+016	Xuất sắc! Em làm gần như trọn vẹn.
+017	Khá lắm! Em có thể làm lại để lấy điểm cao hơn.
+018	Cố lên nào! Làm lại một lần nữa, em sẽ giỏi hơn.
+019	Chúc mừng em! Em nhận huy hiệu Thợ tập sự.
+020	Chúc mừng em! Em nhận huy hiệu Kỹ thuật viên.
+021	Chúc mừng em! Em nhận huy hiệu Kỹ sư siêu cấp.
+022	Em đã nắm được những điều cơ bản về hình chiếu. Cố gắng thêm để lên hạng nhé!
+023	Em đọc hình chiếu rất tốt. Chỉ còn một chút nữa là xuất sắc!
+024	Siêu cấp! Em là cao thủ hình chiếu, thầy tự hào về em!
+025	Theo em, hình cắt của vật này trông thế nào?
+026	Nhìn theo mũi tên B, ta được hình chiếu nào?
+027	Nối hướng nhìn với tên hình chiếu.
+028	Điền từ cho đúng.
+029	Hình chiếu cạnh được nhìn từ bên trái sang.
+030	Kéo tên vào đúng vị trí trên bản vẽ.
+031	Hình chiếu bằng nằm ở đâu so với hình chiếu đứng?
+032	Hình chiếu cạnh nằm bên trái hình chiếu đứng.
+033	Kéo mỗi hình vào đúng vị trí.
+034	Nối nét vẽ với ý nghĩa.
+035	Đây là nét gì?
+036	Chạm vào cạnh khuất, nét đứt.
+037	Kéo tên vào đúng nét A, B, C.
+038	Kích thước trên bản vẽ cơ khí tính bằng đơn vị nào?
+039	Kéo số vào đúng đường kích thước.
+040	Chiều dài toàn bộ bằng 10 cộng 30 bằng ?, mi li mét
+041	Nối ký hiệu với ý nghĩa.
+042	Con số kích thước ghi ở đâu?
+043	Trên hình cắt, phần lỗ rỗng cũng được vẽ nét gạch.
+044	Nét gạch trên hình cắt vẽ ở phần nào?
+045	Mặt phẳng cắt dời ra ngoài vật thể thì mặt cắt như thế nào?
+046	Chào em! Tab này hướng dẫn vẽ hình chiếu vuông góc theo bốn bước của sách giáo khoa. Em bấm vào từng bước, rồi bấm Phát để xem từng nét vẽ. Trả lời đúng ngay lần đầu các câu kiểm tra, em sẽ nhặt được điểm nhé.
+047	Bước 1. Phân tích vật thể thành các khối đơn giản. Vật thể gồm khối hộp chữ nhật số một và khối trụ số hai. Chạm vào từng khối để xem kích thước.
+048	Vật thể này được phân tích thành mấy khối đơn giản?
+049	Khối số một: hình hộp chữ nhật dài 80, rộng 70, cao 30 mi li mét.
+050	Khối số hai: hình trụ đường kính 60, cao 40 mi li mét.
+051	Chưa đúng, em xem lại bước này nhé.
+052	Bước 2. Chọn các hướng chiếu. Chiếu từ trước, ta được hình chiếu đứng.
+053	Muốn có hình chiếu bằng, ta chiếu vật thể từ hướng nào?
+054	Bước 3. Vẽ hình chiếu đứng của khối hộp chữ nhật số một bằng nét liền mảnh.
+055	Ở bước 3, các hình chiếu của từng khối được vẽ bằng nét gì?
+056	Chính xác! Em được cộng không phẩy hai điểm. Bấm viên điểm để nhặt nhé.
+057	Bước 4. Tô đậm các nét thấy của hình chiếu đứng bằng nét liền đậm.
+058	Kí hiệu phi 60 ghi trên hình chiếu bằng cho biết điều gì?
+059	Bước 1. Phân tích vật thể thành các khối đơn giản. Vật thể gồm khối đế số một và khối trên số hai. Chạm vào từng khối để xem kích thước.
+060	Khối số một: hình hộp chữ nhật dài 80, rộng 60, cao 30 mi li mét.
+061	Khối số hai: hình hộp chữ nhật dài 50, rộng 60, cao 30 mi li mét, đặt giữa khối đế, chừa mỗi bên 15.
+062	Bước 3. Vẽ hình chiếu đứng của khối đế số một bằng nét liền mảnh.
+063	Bước 4. Tẩy nét thừa: đoạn này nằm giữa hai mặt cùng thuộc một mặt phẳng phía trước, nên không phải là cạnh của vật thể.
+064	Số 60 ghi bên trái hình chiếu đứng là kích thước nào của vật thể?
+065	Bước 1. Phân tích vật thể. Đây là hình chóp tứ giác đều, một khối đơn giản nên không cần tách thêm. Chạm vào khối để xem kích thước.
+066	Hình chóp tứ giác đều: đáy vuông cạnh 40, chiều cao 40 mi li mét.
+067	Bước 3. Vẽ hình chiếu đứng của hình chóp tứ giác đều bằng nét liền mảnh.
+068	Hình chiếu bằng của hình chóp tứ giác đều là hình gì?
+069	Chính xác! Câu này em đã làm rồi nên không tính thêm điểm.

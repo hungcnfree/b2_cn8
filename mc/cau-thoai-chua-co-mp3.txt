@@ -1,30 +1,25 @@
-# Các câu thoại của tab 1 (Quy trình vẽ hình chiếu) đang đọc bằng giọng máy, mỗi dòng một câu.
-# Tạo mp3 bằng CIT Voice Studio, đặt tên 046.mp3, 047.mp3..., thêm vào BẢNG GIỌNG ĐỌC trong index.html: "câu thoại": "046.mp3".
-# Danh sách này chưa đầy đủ (câu nhận xét thay đổi theo lần trả lời): dùng thêm ?kiemtra=1 để bổ sung.
-Bước 1. Phân tích vật thể thành các khối đơn giản. Vật thể gồm khối hộp chữ nhật (1) và khối trụ (2). Chạm vào từng khối để xem kích thước.
-Vật thể này được phân tích thành mấy khối đơn giản?
-Khối (1): hình hộp chữ nhật dài 80, rộng 70, cao 30 mm.
-Khối (2): hình trụ đường kính 60, cao 40 mm.
-Chưa đúng. Đáp án đúng là 2 khối. Tách thành các khối hộp, trụ... rồi vẽ hình chiếu từng khối.
-Bước 2. Chọn các hướng chiếu. Chiếu từ trước, ta được hình chiếu đứng.
-Muốn có hình chiếu bằng, ta chiếu vật thể từ hướng nào?
-Chưa đúng. Đáp án đúng là Từ trên xuống. Chiếu từ trên xuống cho hình chiếu bằng, đặt bên dưới hình chiếu đứng.
-Bước 3. Vẽ hình chiếu đứng của khối hộp chữ nhật (1) bằng nét liền mảnh.
-Ở bước 3, các hình chiếu của từng khối được vẽ bằng nét gì?
-Chính xác! Bước 3 vẽ nét liền mảnh; bước 4 mới tô đậm các nét thấy. Em được +0,2 điểm, bấm viên ✦ để nhặt nhé.
-Bước 4. Tô đậm các nét thấy của hình chiếu đứng bằng nét liền đậm.
-Kí hiệu Ø60 ghi trên hình chiếu bằng cho biết điều gì?
-Chưa đúng. Đáp án đúng là Đường kính khối trụ là 60 mm. Kí hiệu Ø là đường kính. Hình tròn ở hình chiếu bằng cho biết khối trụ.
-Bước 1. Phân tích vật thể thành các khối đơn giản. Vật thể gồm khối đế (1) và khối trên (2). Chạm vào từng khối để xem kích thước.
-Khối (1): hình hộp chữ nhật dài 80, rộng 60, cao 30 mm.
-Khối (2): hình hộp chữ nhật dài 50, rộng 60, cao 30 mm, đặt giữa khối đế (chừa mỗi bên 15).
-Bước 3. Vẽ hình chiếu đứng của khối đế (1) bằng nét liền mảnh.
-Bước 4. Tẩy nét thừa: đoạn này nằm giữa hai mặt cùng thuộc một mặt phẳng phía trước, nên không phải là cạnh của vật thể.
-Số 60 ghi bên trái hình chiếu đứng là kích thước nào của vật thể?
-Chưa đúng. Đáp án đúng là Chiều cao. Hình chiếu đứng cho biết chiều dài (80) và chiều cao (60); chiều rộng đọc ở hình chiếu bằng.
-Bước 1. Phân tích vật thể. Đây là hình chóp tứ giác đều, một khối đơn giản nên không cần tách thêm. Chạm vào khối để xem kích thước.
-Hình chóp tứ giác đều: đáy vuông cạnh 40, chiều cao 40 mm.
-Chính xác! Hình chóp là một khối đơn giản. Em được +0,2 điểm, bấm viên ✦ để nhặt nhé.
-Bước 3. Vẽ hình chiếu đứng của hình chóp tứ giác đều bằng nét liền mảnh.
-Hình chiếu bằng của hình chóp tứ giác đều là hình gì?
-Chính xác! Nhìn từ trên xuống thấy đáy vuông, bốn cạnh bên chiếu thành hai đường chéo. Em được +0,2 điểm, bấm viên ✦ để nhặt nhé.
+# Câu thoại của tab 1 chưa có mp3 (giọng máy đang đọc). Văn bản khớp từng chữ với mã trong index.html. Số file dự kiến ở đầu dòng.
+046.mp3	Chào em! Tab này hướng dẫn vẽ hình chiếu vuông góc theo bốn bước của sách giáo khoa. Em bấm vào từng bước, rồi bấm Phát để xem từng nét vẽ. Trả lời đúng ngay lần đầu các câu kiểm tra, em sẽ nhặt được điểm nhé.
+047.mp3	Bước 1. Phân tích vật thể thành các khối đơn giản. Vật thể gồm khối hộp chữ nhật (1) và khối trụ (2). Chạm vào từng khối để xem kích thước.
+048.mp3	Vật thể này được phân tích thành mấy khối đơn giản?
+049.mp3	Khối (1): hình hộp chữ nhật dài 80, rộng 70, cao 30 mm.
+050.mp3	Khối (2): hình trụ đường kính 60, cao 40 mm.
+051.mp3	Chưa đúng, em xem lại bước này nhé.
+052.mp3	Bước 2. Chọn các hướng chiếu. Chiếu từ trước, ta được hình chiếu đứng.
+053.mp3	Muốn có hình chiếu bằng, ta chiếu vật thể từ hướng nào?
+054.mp3	Bước 3. Vẽ hình chiếu đứng của khối hộp chữ nhật (1) bằng nét liền mảnh.
+055.mp3	Ở bước 3, các hình chiếu của từng khối được vẽ bằng nét gì?
+056.mp3	Chính xác! Em được cộng không phẩy hai điểm. Bấm viên điểm để nhặt nhé.
+057.mp3	Bước 4. Tô đậm các nét thấy của hình chiếu đứng bằng nét liền đậm.
+058.mp3	Kí hiệu Ø60 ghi trên hình chiếu bằng cho biết điều gì?
+059.mp3	Bước 1. Phân tích vật thể thành các khối đơn giản. Vật thể gồm khối đế (1) và khối trên (2). Chạm vào từng khối để xem kích thước.
+060.mp3	Khối (1): hình hộp chữ nhật dài 80, rộng 60, cao 30 mm.
+061.mp3	Khối (2): hình hộp chữ nhật dài 50, rộng 60, cao 30 mm, đặt giữa khối đế (chừa mỗi bên 15).
+062.mp3	Bước 3. Vẽ hình chiếu đứng của khối đế (1) bằng nét liền mảnh.
+063.mp3	Bước 4. Tẩy nét thừa: đoạn này nằm giữa hai mặt cùng thuộc một mặt phẳng phía trước, nên không phải là cạnh của vật thể.
+064.mp3	Số 60 ghi bên trái hình chiếu đứng là kích thước nào của vật thể?
+065.mp3	Bước 1. Phân tích vật thể. Đây là hình chóp tứ giác đều, một khối đơn giản nên không cần tách thêm. Chạm vào khối để xem kích thước.
+066.mp3	Hình chóp tứ giác đều: đáy vuông cạnh 40, chiều cao 40 mm.
+067.mp3	Bước 3. Vẽ hình chiếu đứng của hình chóp tứ giác đều bằng nét liền mảnh.
+068.mp3	Hình chiếu bằng của hình chóp tứ giác đều là hình gì?
+069.mp3	Chính xác! Câu này em đã làm rồi nên không tính thêm điểm.

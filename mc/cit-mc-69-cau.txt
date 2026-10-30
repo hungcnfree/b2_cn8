@@ -1,0 +1,69 @@
+Xin chào em! Mình là MC dẫn đường. Cùng học hình chiếu và hình cắt nhé!
+Chọn một vật thể trong danh sách, rồi xoay để quan sát. Mỗi vật em xem sẽ có điểm rơi ra, em chạm vào để nhặt nhé.
+Đây là phần luyện tập. Em chọn một nhóm câu hỏi và làm nhé. Làm đúng ngay lần đầu, em được trọn điểm.
+Vật này có lỗ bên trong. Bấm nút Hình cắt để nhìn vào bên trong nhé.
+Em kéo thanh trượt để tiến lùi mặt phẳng cắt A A, rồi nhìn hình cắt bên phải nhé. Em vẫn xoay được vật thể.
+Em đã xem đủ các lát cắt. Sang Luyện tập để thử thách nhé.
+Em vừa nhận thêm điểm. Giỏi lắm!
+Phiếu của em đã sẵn sàng. Em lưu ảnh hoặc chia sẻ để gửi thầy nhé.
+Chính xác!
+Giỏi lắm!
+Đúng rồi, tốt lắm!
+Chưa đúng, em thử lại nhé.
+Gần rồi, em nghĩ lại nhé.
+Đúng rồi. Lần sau em sẽ được trọn điểm.
+Em xong nhóm này rồi.
+Xuất sắc! Em làm gần như trọn vẹn.
+Khá lắm! Em có thể làm lại để lấy điểm cao hơn.
+Cố lên nào! Làm lại một lần nữa, em sẽ giỏi hơn.
+Chúc mừng em! Em nhận huy hiệu Thợ tập sự.
+Chúc mừng em! Em nhận huy hiệu Kỹ thuật viên.
+Chúc mừng em! Em nhận huy hiệu Kỹ sư siêu cấp.
+Em đã nắm được những điều cơ bản về hình chiếu. Cố gắng thêm để lên hạng nhé!
+Em đọc hình chiếu rất tốt. Chỉ còn một chút nữa là xuất sắc!
+Siêu cấp! Em là cao thủ hình chiếu, thầy tự hào về em!
+Theo em, hình cắt của vật này trông thế nào?
+Nhìn theo mũi tên B, ta được hình chiếu nào?
+Nối hướng nhìn với tên hình chiếu.
+Điền từ cho đúng.
+Hình chiếu cạnh được nhìn từ bên trái sang.
+Kéo tên vào đúng vị trí trên bản vẽ.
+Hình chiếu bằng nằm ở đâu so với hình chiếu đứng?
+Hình chiếu cạnh nằm bên trái hình chiếu đứng.
+Kéo mỗi hình vào đúng vị trí.
+Nối nét vẽ với ý nghĩa.
+Đây là nét gì?
+Chạm vào cạnh khuất, nét đứt.
+Kéo tên vào đúng nét A, B, C.
+Kích thước trên bản vẽ cơ khí tính bằng đơn vị nào?
+Kéo số vào đúng đường kích thước.
+Chiều dài toàn bộ bằng 10 cộng 30 bằng ?, mi li mét
+Nối ký hiệu với ý nghĩa.
+Con số kích thước ghi ở đâu?
+Trên hình cắt, phần lỗ rỗng cũng được vẽ nét gạch.
+Nét gạch trên hình cắt vẽ ở phần nào?
+Mặt phẳng cắt dời ra ngoài vật thể thì mặt cắt như thế nào?
+Chào em! Tab này hướng dẫn vẽ hình chiếu vuông góc theo bốn bước của sách giáo khoa. Em bấm vào từng bước, rồi bấm Phát để xem từng nét vẽ. Trả lời đúng ngay lần đầu các câu kiểm tra, em sẽ nhặt được điểm nhé.
+Bước 1. Phân tích vật thể thành các khối đơn giản. Vật thể gồm khối hộp chữ nhật số một và khối trụ số hai. Chạm vào từng khối để xem kích thước.
+Vật thể này được phân tích thành mấy khối đơn giản?
+Khối số một: hình hộp chữ nhật dài 80, rộng 70, cao 30 mi li mét.
+Khối số hai: hình trụ đường kính 60, cao 40 mi li mét.
+Chưa đúng, em xem lại bước này nhé.
+Bước 2. Chọn các hướng chiếu. Chiếu từ trước, ta được hình chiếu đứng.
+Muốn có hình chiếu bằng, ta chiếu vật thể từ hướng nào?
+Bước 3. Vẽ hình chiếu đứng của khối hộp chữ nhật số một bằng nét liền mảnh.
+Ở bước 3, các hình chiếu của từng khối được vẽ bằng nét gì?
+Chính xác! Em được cộng không phẩy hai điểm. Bấm viên điểm để nhặt nhé.
+Bước 4. Tô đậm các nét thấy của hình chiếu đứng bằng nét liền đậm.
+Kí hiệu phi 60 ghi trên hình chiếu bằng cho biết điều gì?
+Bước 1. Phân tích vật thể thành các khối đơn giản. Vật thể gồm khối đế số một và khối trên số hai. Chạm vào từng khối để xem kích thước.
+Khối số một: hình hộp chữ nhật dài 80, rộng 60, cao 30 mi li mét.
+Khối số hai: hình hộp chữ nhật dài 50, rộng 60, cao 30 mi li mét, đặt giữa khối đế, chừa mỗi bên 15.
+Bước 3. Vẽ hình chiếu đứng của khối đế số một bằng nét liền mảnh.
+Bước 4. Tẩy nét thừa: đoạn này nằm giữa hai mặt cùng thuộc một mặt phẳng phía trước, nên không phải là cạnh của vật thể.
+Số 60 ghi bên trái hình chiếu đứng là kích thước nào của vật thể?
+Bước 1. Phân tích vật thể. Đây là hình chóp tứ giác đều, một khối đơn giản nên không cần tách thêm. Chạm vào khối để xem kích thước.
+Hình chóp tứ giác đều: đáy vuông cạnh 40, chiều cao 40 mi li mét.
+Bước 3. Vẽ hình chiếu đứng của hình chóp tứ giác đều bằng nét liền mảnh.
+Hình chiếu bằng của hình chóp tứ giác đều là hình gì?
+Chính xác! Câu này em đã làm rồi nên không tính thêm điểm.
